@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe.config
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\App.g.cs
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\Przychodnia_MarkupCompile.cache
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\Przychodnia.g.resources
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\Przychodnia.Properties.Resources.resources
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\Przychodnia.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\bin\Debug\Przychodnia.exe
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\bin\Debug\Przychodnia.pdb
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\Przychodnia.exe
+C:\Users\local\Desktop\kolos Dawid\Przychodnia\Przychodnia\obj\Debug\Przychodnia.pdb
